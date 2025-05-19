@@ -4,7 +4,7 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- 🎓 Estudiante de la carrera de `Desarrollo de Software` con enfoque en el área Backend.
+- 🎓 Estudiante de la carrera de `Tecnología Superior en Desarrollo de Software` con enfoque en el área Backend.
 - 🧠 Apasionado por resolver problemas usando `código y automatización`.
 - 💻 Experiencia práctica con `servidores Linux`, `hosting casero` y herramientas como `Nextcloud`.
 - 🔧 Actualmente mejorando mis habilidades con `Laravel`, `bases de datos` y `seguridad informática`.
