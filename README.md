@@ -4,12 +4,11 @@
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
-- 🎓 Estudiante de la carrera de `Tecnología Superior en Desarrollo de Software` con enfoque en el área Backend.
+- 👨‍💻 `Tecnólogo Superior en Desarrollo de Software` con enfoque en el área Backend.
 - 🧠 Apasionado por resolver problemas usando `código y automatización`.
 - 💻 Experiencia práctica con `servidores Linux`, `hosting casero` y herramientas como `Nextcloud`.
 - 🔧 Actualmente mejorando mis habilidades con `Laravel`, `bases de datos` y `seguridad informática`.
 - 🌎 Interesado en oportunidades laborales `remotas o en el extranjero`, en áreas como desarrollo, QA o soporte técnico.
-- 📚 Estudiando `Inglés nivel B1` y preparándome para rendir el `examen complexivo`.
 - 🔋 Trabajo a medio tiempo en el campo, mientras desarrollo proyectos personales y aprendo de forma autodidacta.
 - 🚀 Siempre aprendiendo algo nuevo, con el objetivo de alcanzar `libertad financiera` y estudiar más carreras en el futuro.
 
