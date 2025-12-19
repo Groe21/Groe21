@@ -19,7 +19,7 @@
 
 ```yaml
 nombre: Oscar Emilio
-ubicación: Colombia
+ubicación: Ecuador
 rol: Backend Developer
 educación: Tecnólogo Superior en Desarrollo de Software
 enfoque: [Backend, DevOps, Automatización]
@@ -27,6 +27,17 @@ estado: Disponible para oportunidades remotas
 ```
 
 ### 🎯 Actualmente
+
+```javascript
+const oscar = {
+  code: ["PHP", "Python", "JavaScript", "Java"],
+  frameworks: ["Laravel", "Django", "Bootstrap"],
+  databases: ["MySQL", "PostgreSQL", "SQLite"],
+  devOps: ["Docker", "AWS", "Linux"],
+  challenge: "Crear soluciones escalables y seguras",
+  funFact: "Combino código con agricultura 🌾"
+};
+```
 
 - 🔭 Trabajando en proyectos personales con **Laravel** y **Django**
 - 🌱 Profundizando en **seguridad informática** y **arquitectura de software**
@@ -110,20 +121,26 @@ estado: Disponible para oportunidades remotas
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## 🏆 Logros y Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Groe21&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Groe21&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## 📈 Actividad y Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Groe21/Groe21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Groe21&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
