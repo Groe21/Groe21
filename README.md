@@ -2,10 +2,7 @@
   <h1>Hola, soy Oscar Emilio 👋</h1>
   <p><strong>Desarrollador backend junior · Ecuador</strong></p>
   <p>Construyo aplicaciones web para resolver necesidades reales y sigo creciendo como profesional de software.</p>
-  <p>
-    <a href="https://github.com/Groe21"><img src="https://img.shields.io/badge/GitHub-Groe21-181717?style=flat&logo=github" alt="GitHub Groe21"></a>
-    <a href="https://github.com/Groe21/asistente-ia-911"><img src="https://img.shields.io/badge/Proyecto_Asistente_IA_911-ver_repositorio-238636?style=flat&logo=github" alt="Proyecto Asistente IA 911"></a>
-  </p>
+  <p><a href="https://github.com/Groe21">GitHub</a> · <a href="https://github.com/Groe21/asistente-ia-911">Proyecto Asistente IA 911</a></p>
 </div>
 
 ## Sobre mí
